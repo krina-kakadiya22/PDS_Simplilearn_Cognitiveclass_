@@ -1,0 +1,8 @@
+import pandas as pd
+df=pd.read_csv('HousePrices.csv')
+df.head()
+df.size
+df.memory_usage(deep=True)
+df.dtypes
+
+df
