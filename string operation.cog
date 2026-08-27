@@ -1,0 +1,6 @@
+A="Michael Jackson is the best"
+B=A.replace('Michael','Janet')
+B:'Janet Jackson is the best'
+Name="Michael Jackson"
+Name.find('el'):5
+Name.find('Jack'):8
