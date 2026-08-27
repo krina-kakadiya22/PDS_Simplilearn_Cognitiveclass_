@@ -1,0 +1,16 @@
+print("Hello Python 101")
+L=["Michael Jackson",10.1,1982]
+Ratings=(10,9,6,5,10,8,9,6,2)
+album_set=set(album_list)
+{"key1":1,"key2":"2","key3":[3,3,3],"key4":(4,4,4),('key5'):5}
+if (age>18):
+else:
+elseif(age==18):
+for i in range(0,5):
+while (squares[i]=='orange'):
+def fun(a):
+  """add 1 to a"""
+  b=a+1;
+  print(a,"+1=",b)
+  return b
+RedCircle=Circle(10,"red")
